@@ -1,0 +1,37 @@
+
+.col-md-12{
+    padding-top: 5rem;
+}
+.img-fluid{
+    height: 20px;
+    width: 20px;
+    background-size: ;
+}
+
+* {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #373a3c;
+    background-color:antiquewhite;
+}
+
+
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+h1{
+    padding-top: 4rem;
+}
+*
+{
+    
+    color: black;
+}
+
+.media-list{
+    padding: 4rem;
+}
